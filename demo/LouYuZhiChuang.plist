@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.LangXing.LYZC-Demo</string>
+				<string>com.LangXing.LYZC-uat-QY</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
